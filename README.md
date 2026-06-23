@@ -42,3 +42,10 @@
     <li>You can find me trail running, climbing mountains, or exploring new embedded system setups with ESP32!</li>
   </ul>
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Daarel&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Daarel&theme=ocean_dark&hide_border=false" alt="GitHub Streak" />
+</div>
