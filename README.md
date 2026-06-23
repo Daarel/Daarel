@@ -47,7 +47,7 @@
 <div>
   <h3>Code, Commit, Repeat</h3>
   <div align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Daarel&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
-    <img src="https://streak-stats.demolab.com/?user=Daarel&theme=ocean_dark&hide_border=false" alt="GitHub Streak" width="49%" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Daarel&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="195" />
+    <img src="https://streak-stats.demolab.com/?user=Daarel&theme=ocean_dark&hide_border=false" alt="GitHub Streak" height="195" />
   </div>
 </div>
