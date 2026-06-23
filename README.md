@@ -39,13 +39,13 @@
     <li>Meta Front-End Developer Professional Certified & DBS Foundation Full-Stack Scholarship Awardee</li>
     <li>Passionate about integrating AI into functional applications</li>
     <li>Open for professional roles, internships, or collaborative projects to strengthen digital presence</li>
-    <li>You can find me trail running, climbing mountains, or exploring new embedded system setups with ESP32!</li>
   </ul>
 </div>
 
 <br />
 
-<div align="center">
+<div>
+  <h3>Code, Commit, Repeat</h3>
   <img src="https://github-readme-stats.shion.dev/api?username=Daarel&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Daarel&theme=ocean_dark&hide_border=false" alt="GitHub Streak" />
 </div>
