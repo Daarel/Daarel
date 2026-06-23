@@ -2,8 +2,25 @@
   <img src="my-profile-banner.webp" alt="Header Profil" width="100%" />
 </div>
 
+<br />
+
 <div>
-  <h3>When I Code, I Rely On</h3>
+  <p>
+    I'm a Full-Stack Web Developer and a final-year Informatics undergraduate. I have a strong passion for transforming complex ideas into responsive, high-performance, and user-friendly web applications. As a self-learner, I care deeply about clean code, scalable architectures, and best practices.
+  </p>
+  <ul>
+    <li>Experienced in building modern apps with React.js, Next.js, TypeScript, and Tailwind CSS</li>
+    <li>Meta Front-End Developer Professional Certified & DBS Foundation Full-Stack Scholarship Awardee</li>
+    <li>Passionate about integrating AI into functional applications</li>
+    <li>Open for professional roles, internships, or collaborative projects to strengthen digital presence</li>
+    <li>You can find me trail running, climbing mountains, or exploring new embedded system setups with ESP32!</li>
+  </ul>
+</div>
+
+<br />
+
+<div>
+  <h3>I Code With</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
