@@ -5,6 +5,7 @@
 <br />
 
 <div>
+  <h3>About Me</h3>
   <p>
     I'm a Full-Stack Web Developer and a final-year Informatics undergraduate. I have a strong passion for transforming complex ideas into responsive, high-performance, and user-friendly web applications. As a self-learner, I care deeply about clean code, scalable architectures, and best practices.
   </p>
