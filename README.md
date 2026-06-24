@@ -50,3 +50,8 @@
     <img src="https://github-readme-stats.shion.dev/api?username=Daarel&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" height="170" alt="GitHub Stats" /><img src="https://streak-stats.demolab.com/?user=Daarel&theme=ocean_dark&hide_border=false" height="170" alt="GitHub Streak" />
   </div>
 </div>
+
+<br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
