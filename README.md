@@ -54,64 +54,13 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 39.1 kB Used in GitHub's Storage 
- > 
-> 🏆 227 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1868 commits        ██████████░░░░░░░░░░░░░░░   39.98 % 
-🌆 Daytime                1720 commits        █████████░░░░░░░░░░░░░░░░   36.82 % 
-🌃 Evening                933 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-🌙 Night                  151 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   734 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  689 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Wednesday                1107 commits        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Thursday                 801 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Friday                   621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Saturday                 186 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Sunday                   534 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Jupyter Notebook** 
 
-```text
-Jupyter Notebook         1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Daarel/Daarel/main/assets/bar_graph.png)
-
-
- Last Updated on 24/06/2026 04:13:04 UTC
+ Last Updated on 24/06/2026 04:20:14 UTC
 <!--END_SECTION:waka-->
