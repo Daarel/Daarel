@@ -5,6 +5,21 @@
 <br />
 
 <div>
+  <h3>About Me</h3>
+  <p>
+    I'm a Full-Stack Web Developer and a final-year Informatics undergraduate. I have a strong passion for transforming complex ideas into responsive, high-performance, and user-friendly web applications. As a self-learner, I care deeply about clean code, scalable architectures, and best practices.
+  </p>
+  <ul>
+    <li>Experienced in building modern apps with React.js, Next.js, TypeScript, and Tailwind CSS</li>
+    <li>Meta Front-End Developer Professional Certified & DBS Foundation Full-Stack Scholarship Awardee</li>
+    <li>Passionate about integrating AI into functional applications</li>
+    <li>Open for professional roles, internships, or collaborative projects to strengthen digital presence</li>
+  </ul>
+</div>
+
+<br />
+
+<div>
   <h3>When I Code, I Rely On</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -43,21 +58,6 @@
   <img src="https://cdn.simpleicons.org/bruno/213d4b" height="40" alt="bruno logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/railway/131415" height="40" alt="railway logo" />
-</div>
-
-<br />
-
-<div>
-  <h3>About Me</h3>
-  <p>
-    I'm a Full-Stack Web Developer and a final-year Informatics undergraduate. I have a strong passion for transforming complex ideas into responsive, high-performance, and user-friendly web applications. As a self-learner, I care deeply about clean code, scalable architectures, and best practices.
-  </p>
-  <ul>
-    <li>Experienced in building modern apps with React.js, Next.js, TypeScript, and Tailwind CSS</li>
-    <li>Meta Front-End Developer Professional Certified & DBS Foundation Full-Stack Scholarship Awardee</li>
-    <li>Passionate about integrating AI into functional applications</li>
-    <li>Open for professional roles, internships, or collaborative projects to strengthen digital presence</li>
-  </ul>
 </div>
 
 <br />
