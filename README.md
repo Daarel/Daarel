@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/bruno/213d4b" height="40" alt="bruno logo" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/railway/131415" height="40" alt="railway logo" />
 </div>
