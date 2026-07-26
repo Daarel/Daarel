@@ -80,6 +80,8 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -100,5 +102,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/07/2026 02:45:26 UTC
+ Last Updated on 26/07/2026 02:53:35 UTC
 <!--END_SECTION:waka-->
