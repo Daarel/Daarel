@@ -80,9 +80,9 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=for-the-badge)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=for-the-badge)
 
 **I'm an Early 🐤** 
 
@@ -108,5 +108,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/08/2026 02:54:06 UTC
+ Last Updated on 04/08/2026 02:37:56 UTC
 <!--END_SECTION:waka-->
