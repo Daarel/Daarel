@@ -13,7 +13,7 @@
     <li>Experienced in building modern apps with React.js, Next.js, TypeScript, and Tailwind CSS</li>
     <li>Meta Front-End Developer Professional Certified & DBS Foundation Full-Stack Scholarship Awardee</li>
     <li>Passionate about integrating AI into functional applications</li>
-    <li>Open for professional roles, internships, or collaborative projects to strengthen digital presence</li>
+    <li>Open for professional roles and collaborative projects to strengthen digital presence</li>
   </ul>
 </div>
 
@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -44,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
   <img width="12" />
@@ -68,45 +64,3 @@
     <img src="https://github-readme-stats.shion.dev/api?username=Daarel&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" height="170" alt="GitHub Stats" /><img src="https://streak-stats.demolab.com/?user=Daarel&theme=ocean_dark&hide_border=false" height="170" alt="GitHub Streak" />
   </div>
 </div>
-
-<br />
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daarel/Daarel/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daarel/Daarel/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daarel/Daarel/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-<br />
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=for-the-badge)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1907 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.74 % 
-🌆 Daytime                1811 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.79 % 
-🌃 Evening                1042 commits        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.17 % 
-🌙 Night                  162 commits         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 26/10/2026 03:40:10 UTC
-<!--END_SECTION:waka-->
