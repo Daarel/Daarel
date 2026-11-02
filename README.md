@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="my-profile-banner.webp" alt="Header Profil" width="100%" />
+  <img src="thumbnails.webp" alt="Header Profil" width="100%" />
 </div>
 
 <br />
@@ -7,7 +7,7 @@
 <div>
   <h3>About Me</h3>
   <p>
-    I'm a Full-Stack Web Developer and a final-year Informatics undergraduate. I have a strong passion for transforming complex ideas into responsive, high-performance, and user-friendly web applications. As a self-learner, I care deeply about clean code, scalable architectures, and best practices.
+Fresh graduate with Bachelor of Computer Science from Universitas Pembangunan Jaya with hands-on web development internship experience. Recognized as a Meta-certified Front-End Developer and Coding Camp 2026 bootcamp graduate. Enthusiastic about crafting responsive, user-friendly web interfaces with an emphasis on clean code and modern design. Combines analytical problem-solving, strong technical communication, and active teamwork to translate requirements into reliable web solutions.
   </p>
   <ul>
     <li>Experienced in building modern apps with React.js, Next.js, TypeScript, and Tailwind CSS</li>
