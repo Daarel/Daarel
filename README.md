@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="thumbnails.webp" alt="Header Profil" width="100%" />
+  <img src="thumbnails.png" alt="Header Profil" width="100%" />
 </div>
 
 <br />
